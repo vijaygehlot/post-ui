@@ -1,0 +1,76 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "John David",
+            "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
+            "emoji": "https://cdn.shopify.com/s/files/1/1061/1924/files/Shyly_Smiling_Face_Emoji.png?8026536574188759287",
+            "time": "5 mins ago",
+            "comment": "24"
+        },
+        {
+            "id": 2,
+            "name": "Will Halli",
+            "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "img": "https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg",
+            "emoji": "https://emojiisland.com/cdn/shop/products/Clapping_Hands_Emoji_ios10__grande.png?v=1571606090",
+            "time": "8 mins ago",
+            "comment": "10"
+        },
+        {
+            "id": 3,
+            "name": "Dwan Bravo",
+            "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "img": "https://thumbs.dreamstime.com/b/portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.jpg",
+            "emoji": "https://png.pngtree.com/png-clipart/20230215/original/pngtree-love-emoji-png-image_8955305.png",
+            "time": "2 mins ago",
+            "comment": "5"
+        },
+        {
+            "id": 4,
+            "name": "Steve Smith",
+            "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "img": "https://indianwomennetwork.com/wp-content/uploads/2022/02/slider-women-final-1.png",
+            "emoji": "https://png.pngtree.com/png-vector/20221110/ourmid/pngtree-yellow-sad-emoji-design-with-big-glassy-eyes-png-image_6432751.png",
+            "time": "23 mins ago",
+            "comment": "36"
+        },
+        {
+            "id": 5,
+            "name": "Ben Stokes",
+            "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?cs=srgb&dl=pexels-italo-melo-881954-2379004.jpg&fm=jpg",
+            "emoji": "https://static-00.iconduck.com/assets.00/red-heart-emoji-2048x1879-8wl1z711.png",
+            "time": "10 mins ago",
+            "comment": "23"
+        },
+        {
+            "id": 6,
+            "name": "Jason Holder",
+            "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "img": "https://femina.wwmindia.com/content/2021/sep/women-thumb1632797644.jpg",
+            "emoji": "https://www.pngall.com/wp-content/uploads/14/Laugh-Emoji-PNG-File.png",
+            "time": "3 mins ago • Edited",
+            "comment": "6"
+        },
+        {
+            "id": 7,
+            "name": "Chris Gayle",
+            "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "img": "https://png.pngtree.com/png-vector/20230928/ourmid/pngtree-young-indian-man-png-image_10149662.png",
+            "emoji": "https://static-00.iconduck.com/assets.00/thumbs-up-emoji-1905x2048-yh44rgtn.png",
+            "time": "1 h ago",
+            "comment": "44"
+        },
+        {
+            "id": 8,
+            "name": "Jimmy Anderson",
+            "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "img": "https://img.freepik.com/free-photo/portrait-beautiful-indian-woman_23-2150913228.jpg",
+            "emoji": "https://cdn.pixabay.com/photo/2022/12/11/04/11/thumbs-up-7648171_960_720.png",
+            "time": "2 mins ago • Edited",
+            "comment": "7"
+        }
+    ]
+}
